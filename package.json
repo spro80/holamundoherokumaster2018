@@ -4,7 +4,8 @@
   "description": "Hola Mundo Node - Github",
   "main": "app.js",
   "scripts": {
-    "test": "node app"
+    "test": "node app",
+    "start": "node app.js"
   },
   "author": "Lucho Hero",
   "license": "ISC",
